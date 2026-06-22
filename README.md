@@ -1,4 +1,4 @@
-###Freshman , Maths & Computing
+### Freshman , Maths & Computing
 <br>
 There is something beautiful about building projects and spending nights through blogs<br>
 Going from not knowing something about.. something..!? to knowing most about something
