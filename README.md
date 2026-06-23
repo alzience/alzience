@@ -6,6 +6,6 @@ Going from not knowing something about.. something..!? to knowing most about som
 Most of my screen time is spent in arxiv
 <br>
 
-<a href = "mailto:alzience@gmail.com">Email</a> • <a href = "alzience.github.io">Website</a> 
+<a href = "mailto:vawzlyne@gmail.com">Email</a> • <a href = "vawzlyne.github.io">Website</a> 
 <br>
 Mechanistic Interpretability , AI Safety , DeepTech 
